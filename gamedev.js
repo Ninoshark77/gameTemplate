@@ -1,33 +1,34 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot1.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot2.jpg')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
-		$("#goRight-Straight1").show();
-		$("#goRight-Right2").show();
+		$("#goLeft7").show();
+		$("#goRight2").show();
+		$("#goForward 1").show();
 	});
 
 	$("#goRight-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot2.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot3.jpg')");
 		$("#goRight-Straight1").hide();
 		$("#goRight-Straight2").show();
 	});
 
 	$("#goRight-Straight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot3.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot4.jpg')");
 		$("#goRight-Straight2").hide();
 		$("#goRight-Straight3").show();
 	});
 
 	$("#goRight-Straight3").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot4.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot5.jpg')");
 		$("#goRight-Straight3").hide();
 		$("#goRight-Right2").show();
 	});
 
 	$("#goRight-Right2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot5.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot6.jpg')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});
