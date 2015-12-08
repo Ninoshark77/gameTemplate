@@ -40,8 +40,8 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/spot5.jpg')");
 		$("#goRight6").hide();
 		$("#goLeft3").hide();
-		$("#goRight7").show();
-		$("#goLeft2").show();
+		$("#goRight6").show();]
+		$("#goLeft3").show();
 	});
 
 	
