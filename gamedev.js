@@ -1,18 +1,21 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot2.jpg')");
+		$("#exploreBody").css("background-image", "url('img/start.jpg')");
 		$("#goRight1").hide();
-		$("#goBack").hide();
-		$("#goLeft7").show();
+		$("#goLeft1").hide();
 		$("#goRight2").show();
-		$("#goForward 1").show();
+		$("#goForward1").show();
+		$("#goLeft7").show();
 	});
 
-	$("#goRight-Straight1").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot3.jpg')");
-		$("#goRight-Straight1").hide();
-		$("#goRight-Straight2").show();
+	$("#goRight2").click(function() {
+		$("#exploreBody").css("background-image", "url('img/spot1.jpg')");
+		$("#goRight2").hide();
+		$("#goForward1").hide();
+		$("#goLeft7").hide();
+		$("#goRight3").show();
+		$("#goLeft6").show();
 	});
 
 	$("#goRight-Straight2").click(function() {
@@ -28,7 +31,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight-Right2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot6.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot6.png')");
 		$("#goRight-Right2").hide();
 		$("#goBack").show();
 	});
