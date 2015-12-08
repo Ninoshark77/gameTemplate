@@ -27,10 +27,12 @@ $( document ).ready(function() {
 
 	});
 
-	$("#goRight-Straight3").click(function() {
+	$("#goRight4").click(function() {
 		$("#exploreBody").css("background-image", "url('img/spot5.jpg')");
-		$("#goRight-Straight3").hide();
-		$("#goRight-Right2").show();
+		$("#goRight4").hide();
+		$("#goLeft5").hide();
+		$("#goRight5").show();
+		$("#goLeft4").show();
 	});
 
 	$("#goRight-Right2").click(function() {
