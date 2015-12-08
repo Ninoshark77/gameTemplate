@@ -1,6 +1,14 @@
 $( document ).ready(function() {
 
 	$("#goRight1").click(function() {
+		$("#exploreBody").css("background-image", "url('img/spot1.jpg')");
+		$("#goRight1").hide();
+		$("#goBack").hide();
+		$("#goLeft7").show();
+		$("#goRight2").show();
+		$("#goForward 1").show();
+	});
+	$("#goRight1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/spot2.jpg')");
 		$("#goRight1").hide();
 		$("#goBack").hide();
