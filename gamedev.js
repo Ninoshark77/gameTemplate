@@ -52,6 +52,14 @@ $( document ).ready(function() {
 		$("#goLeft2").show();
 	});
 
+	$("#goRight7").click(function() {
+		$("#exploreBody").css("background-image", "url('img/spot1.jpg')");
+		$("#goRight7").hide();
+		$("#goLeft2").hide();
+		$("#goRight1").show();]
+		$("#goLeft1").show();
+	});
+
 	
 
 });
