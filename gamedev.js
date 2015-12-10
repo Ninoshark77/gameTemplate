@@ -30,7 +30,7 @@ $( document ).ready(function() {
 	$("#goRight4").click(function() {
 		$("#exploreBody").css("background-image", "url('img/spot5.jpg`')");
 		$("#goRight4").hide();
-		$("#goLeft5").hide();
+		$("#goLeft3").hide();
 		$("#goRight5").show();
 		$("#goLeft4").show();
 	});
@@ -38,10 +38,18 @@ $( document ).ready(function() {
 	
 	$("#goRight5").click(function() {
 		$("#exploreBody").css("background-image", "url('img/spot6.jpg')");
-		$("#goRight6").hide();
-		$("#goLeft3").hide();
+		$("#goRight5").hide();
+		$("#goLeft2").hide();
 		$("#goRight6").show();]
 		$("#goLeft3").show();
+	});
+
+	$("#goRight6").click(function() {
+		$("#exploreBody").css("background-image", "url('img/spot7.jpg')");
+		$("#goRight6").hide();
+		$("#goLeft1").hide();
+		$("#goRight7").show();]
+		$("#goLeft2").show();
 	});
 
 	
