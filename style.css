@@ -117,6 +117,7 @@ body {
 }
 
 #goRight6 {
+    right: 40px;
     top: 40%;
     display: none;
 }
