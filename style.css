@@ -22,7 +22,7 @@ body {
 }
 
 .button {
-	border: 5px solid #383838;
+	border: 5px solid #000999;
     color: #383838;
     padding: 20px 50px;
     font-size: 5em;
@@ -40,7 +40,7 @@ body {
 /*Stuff below governs the Explore screen*/
 
 #exploreBody {
-	background-image: url("img/spot.jpg");
+	background-image: url("img/spot1.jpg");
 	background-position: bottom center;
 
 }
