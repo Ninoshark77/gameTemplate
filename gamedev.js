@@ -48,7 +48,7 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/spot7.jpg')");
 		$("#goRight6").hide();
 		$("#goLeft1").hide();
-		$("#goRight7").show();]
+		$("#goRight7").show();
 		$("#goLeft2").show();
 	});
 
@@ -56,7 +56,7 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/spot1.jpg')");
 		$("#goRight7").hide();
 		$("#goLeft2").hide();
-		$("#goRight1").show();]
+		$("#goRight1").show();
 		$("#goLeft1").show();
 	});
 
@@ -115,7 +115,7 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/spot6.jpg')");
 		$("#goRight4").hide();
 		$("#goLeft5").hide();
-		$("#goRight3").show();]
+		$("#goRight3").show();
 		$("#goLeft6").show();
 	});
 
@@ -123,7 +123,7 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/spot7.jpg')");
 		$("#goRight3").hide();
 		$("#goLeft6").hide();
-		$("#goRight2").show();]
+		$("#goRight2").show();
 		$("#goLeft7").show();
 	});
 
@@ -131,7 +131,7 @@ $( document ).ready(function() {
 		$("#exploreBody").css("background-image", "url('img/spot1.jpg')");
 		$("#goRight2").hide();
 		$("#goLeft7").hide();
-		$("#goRight1").show();]
+		$("#goRight1").show();
 		$("#goLeft8").show();
 	});
 
