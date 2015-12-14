@@ -76,7 +76,6 @@ $( document ).ready(function() {
 
 
 
-	$( document ).ready(function() {
 
 	$("#goLeft1").click(function() {
 		$("#exploreBody").css("background-image", "url('img/spot2.jpg')");
@@ -104,7 +103,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft4").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot5.jpg`')");
+		$("#exploreBody").css("background-image", "url('img/spot5.jpg')");
 		$("#goRight5").hide();
 		$("#goLeft4").hide();
 		$("#goRight4").show();
