@@ -10,7 +10,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot3.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot3.gif')");
 		$("#goRight2").hide();
 		$("#goForward1").hide();
 		$("#goLeft7").hide();
@@ -19,7 +19,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight3").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot4.gif')");
+		$("#exploreBody").css("background-image", "url('img/spot4.jpg')");
 		$("#goRight3").hide();
 		$("#goLeft6").hide();
 		$("#goRight4").show();
@@ -28,7 +28,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight4").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot5.jpg`')");
+		$("#exploreBody").css("background-image", "url('img/spot5.jpg')");
 		$("#goRight4").hide();
 		$("#goLeft3").hide();
 		$("#goRight5").show();
@@ -37,7 +37,7 @@ $( document ).ready(function() {
 
 	
 	$("#goRight5").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot6.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot6.png')");
 		$("#goRight5").hide();
 		$("#goLeft2").hide();
 		$("#goRight6").show();
@@ -45,7 +45,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goRight6").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot7.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot7.gif')");
 		$("#goRight6").hide();
 		$("#goLeft1").hide();
 		$("#goRight7").show();
@@ -86,7 +86,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft2").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot3.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot3.gif')");
 		$("#goRight7").hide();
 		$("#goLeft2").hide();
 		$("#goRight6").show();
@@ -94,7 +94,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft3").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot4.gif')");
+		$("#exploreBody").css("background-image", "url('img/spot4.jpg')");
 		$("#goRight6").hide();
 		$("#goLeft3").hide();
 		$("#goRight5").show();
@@ -112,7 +112,7 @@ $( document ).ready(function() {
 
 	
 	$("#goLeft5").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot6.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot6.png')");
 		$("#goRight4").hide();
 		$("#goLeft5").hide();
 		$("#goRight3").show();
@@ -120,7 +120,7 @@ $( document ).ready(function() {
 	});
 
 	$("#goLeft6").click(function() {
-		$("#exploreBody").css("background-image", "url('img/spot7.jpg')");
+		$("#exploreBody").css("background-image", "url('img/spot7.gif')");
 		$("#goRight3").hide();
 		$("#goLeft6").hide();
 		$("#goRight2").show();
